@@ -27,8 +27,6 @@
 
 .navbar-item {
     padding: 14px 20px;
-    display: flex;
-    justify-content: flex-end;
 }
 
 .navbar-item:first-child {
