@@ -17,3 +17,13 @@
     background: #FCFCFC;
     color: #000000;
 }
+.navbar-list {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-item {
+    padding: 14px 20px;
+}
