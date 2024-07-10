@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background: #ECE8E8;
+}
 .navbar {
     width: 100%;
     max-width: 1920px;
